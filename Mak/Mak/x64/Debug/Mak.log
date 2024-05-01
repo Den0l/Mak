@@ -1,0 +1,4 @@
+﻿  Mak.cpp
+C:\Projects\C++\Mak\Mak\Mak.cpp(88,43): warning C4305: аргумент: усечение из "double" в "float"
+C:\Projects\C++\Mak\Mak\Mak.cpp(89,56): warning C4305: аргумент: усечение из "double" в "float"
+  Mak.vcxproj -> C:\Projects\C++\Mak\x64\Debug\Mak.exe
